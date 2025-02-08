@@ -18,13 +18,13 @@ Here are some of the technologies and tools I use:
 
 ---
 
-### 📊 GitHub Chronicles  
+### 💥 Combat Activity 
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhabrata0811&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhabrata0811&show_icons=true&theme=nightowl&hide_border=true&width=200)  &nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhabrata0811&theme=nightowl&hide_border=true&width=200)
 
 ---
 
-### 💥 Combat Activity 
+### 📊 GitHub Chronicles  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhabrata0811&show_icons=true&theme=radical)  &nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhabrata0811&theme=radical)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhabrata0811&theme=nightowl)
